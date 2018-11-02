@@ -1,40 +1,46 @@
 #EXTM3U 
 
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/hweofn.jpg" group-title="INFORMAÇÕES DA LISTA",[COLOR gold]Atualização:02/11/2018[/COLOR]
+http://784/live/stream.m3u8
 #EXTINF:2 tvg-logo="http://i64.tinypic.com/161m9eg.jpg" group-title="FILMES",OS INCRÍVEIS 2
-http://bit.ly/adailsonfilmes1
+http://cdn38.av6.tech/movies/osincriveis2new-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i63.tinypic.com/rh4isn.jpg" group-title="FILMES",ERA DO GELO 1
-http://bit.ly/adailsonfilmes07
+http://cdn38.av6.tech/movies/gelo1-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i65.tinypic.com/11u9us8.jpg" group-title="FILMES",ERA DO GELO 2
-http://bit.ly/adailsonfilmes11
+http://cdn38.av6.tech/movies/gelo2-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i63.tinypic.com/2ajci09.jpg" group-title="FILMES",ERA DO GELO 3
-http://bit.ly/adailsonfilmes0-3
+http://cdn38.av6.tech/movies/gelo3-dub-360p.mp4
 #EXTINF:2 tvg-logo="http://i63.tinypic.com/kbq6vd.jpg" group-title="FILMES",ERA DO GELO 4
-http://bit.ly/adailsonfilmes09
-#EXTINF:2 tvg-logo="" group-title="",
-#EXTINF:2 tvg-logo="" group-title="",
+http://cdn38.av6.tech/movies/gelo4-dub-720p.mp4
+#EXTINF:2 tvg-logo="http://i68.tinypic.com/dwtkxs.jpg" group-title="FILMES",BARRACA DO BEIJO 
+http://cdn38.av6.tech/movies/abarracadobeijo-leg-720p.mp4
+#EXTINF:2 tvg-logo="http://i65.tinypic.com/n2ygwn.jpg" group-title="FILMES",Crepúsculo Amanhece  1
+http://cdn38.av6.tech/movies/amanhecer-parte1-720p.mp4
+#EXTINF:2 tvg-logo="http://i64.tinypic.com/29ffgnb.jpg" group-title="FILMES",Crepúsculo Amanhece 2
+http://cdn38.av6.tech/movies/amanhecer-parte2-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 1
-http://bit.ly/adailsonfilmes2
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e01-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 2
-http://bit.ly/adailsonfilmes4
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e02-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 3
-http://bit.ly/adailsonfilmes5
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e03-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 4
-http://bit.ly/adailsonfilmes33
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e04-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 5
-http://bit.ly/adailsonfilmes6
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e05-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 6
-http://bit.ly/adailsonfilmes7
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e05-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 7
-http://bit.ly/adailsonfilmes17
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e07-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 8
-http://bit.ly/adailsonfilmes18
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e10-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 9
-http://bit.ly/adailsonfilmes022
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e09-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 10 
-http://bit.ly/adailsonfilmes15
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e01-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 11
-http://bit.ly/adailsonfilmes16
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e11-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 12
-http://bit.ly/adailsonfilmes14
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e12-dub-720p.mp4
 #EXTINF:2 tvg-logo="http://i67.tinypic.com/24b3hw5.jpg" group-title="LÁ CASA DE PAPEL",episódio 13
-http://bit.ly/adailsonfilmes19
+http://cdn36.av6.tech/d/2017/12/lanadelrey/tvshows/lacasadepapel/s01e13-dub-720p.mp4
